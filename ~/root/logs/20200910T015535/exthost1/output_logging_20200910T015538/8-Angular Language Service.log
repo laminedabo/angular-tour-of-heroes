@@ -1,0 +1,5 @@
+[Info  - 01:55:38] Angular language server process ID: 85382
+[Info  - 01:55:38] Using typescript/lib/tsserverlibrary v3.9.5 from /root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 01:55:38] Using @angular/language-service v10.0.14 from /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 01:55:38] Log file: /home/ldab/Bureau/angular-tour-of-heroes/~/root/logs/20200910T015535/exthost1/Angular.ng-template/nglangsvc.log
+[Info  - 01:55:41] Enabling language service for /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json.

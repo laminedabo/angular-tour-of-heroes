@@ -1,0 +1,28 @@
+[Info  - 02:42:51] Angular language server process ID: 25540
+[Info  - 02:42:51] Using typescript/lib/tsserverlibrary v3.9.5 from /root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 02:42:51] Using @angular/language-service v10.0.14 from /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 02:42:51] Log file: /home/ldab/Bureau/angular-tour-of-heroes/~/root/logs/20200908T023133/exthost1/Angular.ng-template/nglangsvc.log
+[Info  - 02:42:54] Enabling language service for /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json.
+[Error - 02:42:54] No config file for /home/ldab/Bureau/angular-tour-of-heroes/src/app/app.component.html
+/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js:2251
+            throw e;
+            ^
+
+Error: Debug Failure. False expression.
+    at checkChangeRange (/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js:26249:26)
+    at Object.updateSourceFile (/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js:25837:13)
+    at Object.updateSourceFile (/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js:19546:47)
+    at Object.updateLanguageServiceSourceFile (/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js:139049:40)
+    at acquireOrUpdateDocument (/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js:115402:43)
+    at Object.updateDocumentWithKey (/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js:115368:20)
+    at Object.getOrCreateSourceFileByPath [as getSourceFileByPath] (/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js:139327:49)
+    at tryReuseStructureFromOldProgram (/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js:100516:28)
+    at Object.createProgram (/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js:100099:30)
+    at synchronizeHostData (/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js:139249:26)
+[Info  - 21:07:19] Connection to server got closed. Server will restart.
+[Info  - 21:07:20] Angular language server process ID: 53238
+[Info  - 21:07:20] Using typescript/lib/tsserverlibrary v3.9.5 from /root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 21:07:20] Using @angular/language-service v10.0.14 from /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 21:07:20] Log file: /home/ldab/Bureau/angular-tour-of-heroes/~/root/logs/20200908T023133/exthost1/Angular.ng-template/nglangsvc.log
+[Info  - 21:07:22] Enabling language service for /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json.
+[Error - 21:07:22] No config file for /home/ldab/Bureau/angular-tour-of-heroes/src/app/app.component.html

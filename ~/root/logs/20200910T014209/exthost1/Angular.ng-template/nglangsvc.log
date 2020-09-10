@@ -1,0 +1,328 @@
+Info 0    [1:42:13.459] Format host information updated
+Info 1    [1:42:13.459] reload projects.
+Info 2    [1:42:13.459] Before ensureProjectForOpenFiles:
+Info 3    [1:42:13.459] After ensureProjectForOpenFiles:
+Info 4    [1:42:13.459] Host file extension mappings updated
+Info 5    [1:42:13.673] Search path: /home/ldab/Bureau/angular-tour-of-heroes/src/app
+Info 6    [1:42:13.674] For info: /home/ldab/Bureau/angular-tour-of-heroes/src/app/app.module.ts :: Config file name: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 7    [1:42:13.675] Opened configuration file /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 8    [1:42:13.741] Config: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json : {
+ "rootNames": [
+  "/home/ldab/Bureau/angular-tour-of-heroes/e2e/src/app.e2e-spec.ts",
+  "/home/ldab/Bureau/angular-tour-of-heroes/e2e/src/app.po.ts",
+  "/home/ldab/Bureau/angular-tour-of-heroes/src/main.ts",
+  "/home/ldab/Bureau/angular-tour-of-heroes/src/polyfills.ts",
+  "/home/ldab/Bureau/angular-tour-of-heroes/src/app/app-routing.module.ts",
+  "/home/ldab/Bureau/angular-tour-of-heroes/src/app/app.component.ts",
+  "/home/ldab/Bureau/angular-tour-of-heroes/src/app/app.module.ts",
+  "/home/ldab/Bureau/angular-tour-of-heroes/src/app/hero.service.ts",
+  "/home/ldab/Bureau/angular-tour-of-heroes/src/app/hero.ts",
+  "/home/ldab/Bureau/angular-tour-of-heroes/src/app/message.service.ts",
+  "/home/ldab/Bureau/angular-tour-of-heroes/src/app/mock-heroes.ts",
+  "/home/ldab/Bureau/angular-tour-of-heroes/src/app/dashboard/dashboard.component.spec.ts",
+  "/home/ldab/Bureau/angular-tour-of-heroes/src/app/dashboard/dashboard.component.ts",
+  "/home/ldab/Bureau/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.ts",
+  "/home/ldab/Bureau/angular-tour-of-heroes/src/app/heroes/heroes.component.ts",
+  "/home/ldab/Bureau/angular-tour-of-heroes/src/app/messages/messages.component.ts",
+  "/home/ldab/Bureau/angular-tour-of-heroes/src/environments/environment.prod.ts",
+  "/home/ldab/Bureau/angular-tour-of-heroes/src/environments/environment.ts"
+ ],
+ "options": {
+  "baseUrl": "/home/ldab/Bureau/angular-tour-of-heroes",
+  "outDir": "/home/ldab/Bureau/angular-tour-of-heroes/dist/out-tsc",
+  "sourceMap": true,
+  "declaration": false,
+  "downlevelIteration": true,
+  "experimentalDecorators": true,
+  "moduleResolution": 2,
+  "importHelpers": true,
+  "target": 2,
+  "module": 6,
+  "lib": [
+   "lib.es2018.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "configFilePath": "/home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json"
+ }
+}
+Info 9    [1:42:14.486] Loading global plugin @angular/language-service
+Info 10   [1:42:14.486] Enabling plugin @angular/language-service from candidate paths: /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js,/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 11   [1:42:14.486] Loading @angular/language-service from /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 12   [1:42:14.548] Plugin validation succeded
+Info 13   [1:42:14.577] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 14   [1:42:17.260] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 1 structureChanged: true Elapsed: 2683ms
+Info 15   [1:42:17.260] Project '/home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json' (Configured)
+Info 16   [1:42:17.260] 	Files (315)
+
+Info 17   [1:42:17.260] -----------------------------------------------
+Info 18   [1:42:17.262] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 19   [1:42:17.263] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 2 structureChanged: false Elapsed: 1ms
+Info 20   [1:42:18.288] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 21   [1:42:18.288] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 22   [1:42:18.595] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 23   [1:42:18.595] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 3 structureChanged: false Elapsed: 0ms
+Info 24   [1:42:20.788] Before ensureProjectForOpenFiles:
+Info 25   [1:42:20.789] After ensureProjectForOpenFiles:
+Info 26   [1:42:22.240] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 27   [1:42:22.240] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 28   [1:42:22.632] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 29   [1:42:22.633] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 4 structureChanged: true Elapsed: 0ms
+Info 30   [1:42:22.633] Different program with same set of files:: oldProgram.structureIsReused:: 0
+Info 31   [1:42:24.717] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 32   [1:42:24.717] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 33   [1:42:24.995] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 34   [1:42:24.995] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 5 structureChanged: false Elapsed: 0ms
+Info 35   [1:42:25.857] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 36   [1:42:25.858] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 37   [1:42:26.155] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 38   [1:42:26.155] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 6 structureChanged: false Elapsed: 0ms
+Info 39   [1:42:28.358] Before ensureProjectForOpenFiles:
+Info 40   [1:42:28.358] After ensureProjectForOpenFiles:
+Info 41   [1:42:35.921] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 42   [1:42:35.922] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 43   [1:42:36.206] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 44   [1:42:36.206] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 7 structureChanged: false Elapsed: 0ms
+Info 45   [1:42:38.448] Before ensureProjectForOpenFiles:
+Info 46   [1:42:38.448] After ensureProjectForOpenFiles:
+Info 47   [1:42:43.433] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes/~/root/User/workspaceStorage/1599532294105 :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 48   [1:42:43.433] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes/~/root/User/workspaceStorage/1599532294105 :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 49   [1:42:43.724] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 50   [1:42:43.724] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 8 structureChanged: false Elapsed: 0ms
+Info 51   [1:42:44.435] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 52   [1:42:44.435] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 53   [1:42:44.715] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 54   [1:42:44.715] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 9 structureChanged: false Elapsed: 0ms
+Info 55   [1:42:46.936] Before ensureProjectForOpenFiles:
+Info 56   [1:42:46.936] After ensureProjectForOpenFiles:
+Info 57   [1:42:49.124] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 58   [1:42:49.124] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 59   [1:42:49.422] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 60   [1:42:49.422] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 10 structureChanged: false Elapsed: 0ms
+Info 61   [1:42:51.624] Before ensureProjectForOpenFiles:
+Info 62   [1:42:51.624] After ensureProjectForOpenFiles:
+Info 63   [1:42:53.856] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 64   [1:42:53.857] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 65   [1:42:54.159] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 66   [1:42:54.160] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 11 structureChanged: false Elapsed: 1ms
+Info 67   [1:42:56.357] Before ensureProjectForOpenFiles:
+Info 68   [1:42:56.358] After ensureProjectForOpenFiles:
+Info 69   [1:42:57.908] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 70   [1:42:57.909] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 71   [1:42:58.183] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 72   [1:42:58.183] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 12 structureChanged: false Elapsed: 0ms
+Info 73   [1:43:0.409] Before ensureProjectForOpenFiles:
+Info 74   [1:43:0.410] After ensureProjectForOpenFiles:
+Info 75   [1:43:3.956] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes/.git :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 0 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Failed Lookup Locations
+Info 76   [1:43:3.956] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes/.git :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 0 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Failed Lookup Locations
+Info 77   [1:43:12.473] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 78   [1:43:12.473] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 79   [1:43:12.754] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 80   [1:43:12.754] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 13 structureChanged: false Elapsed: 0ms
+Info 81   [1:43:14.973] Before ensureProjectForOpenFiles:
+Info 82   [1:43:14.973] After ensureProjectForOpenFiles:
+Info 83   [1:45:2.896] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 84   [1:45:2.896] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 85   [1:45:3.189] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 86   [1:45:3.190] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 14 structureChanged: false Elapsed: 1ms
+Info 87   [1:45:5.397] Before ensureProjectForOpenFiles:
+Info 88   [1:45:5.397] After ensureProjectForOpenFiles:
+Info 89   [1:45:12.397] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 90   [1:45:12.397] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 91   [1:45:12.689] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 92   [1:45:12.689] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 15 structureChanged: false Elapsed: 0ms
+Info 93   [1:45:14.898] Before ensureProjectForOpenFiles:
+Info 94   [1:45:14.898] After ensureProjectForOpenFiles:
+Info 95   [1:45:23.137] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 96   [1:45:23.137] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 97   [1:45:23.433] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 98   [1:45:23.433] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 16 structureChanged: false Elapsed: 0ms
+Info 99   [1:45:25.638] Before ensureProjectForOpenFiles:
+Info 100  [1:45:25.638] After ensureProjectForOpenFiles:
+Info 101  [1:47:4.295] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 102  [1:47:4.296] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 103  [1:47:4.574] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 104  [1:47:4.574] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 17 structureChanged: false Elapsed: 0ms
+Info 105  [1:47:6.796] Before ensureProjectForOpenFiles:
+Info 106  [1:47:6.796] After ensureProjectForOpenFiles:
+Info 107  [1:47:7.206] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 108  [1:47:7.206] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 109  [1:47:7.505] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 110  [1:47:7.505] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 18 structureChanged: false Elapsed: 0ms
+Info 111  [1:47:9.706] Before ensureProjectForOpenFiles:
+Info 112  [1:47:9.706] After ensureProjectForOpenFiles:
+Info 113  [1:47:15.55] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 114  [1:47:15.55] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 115  [1:47:15.326] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 116  [1:47:15.326] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 19 structureChanged: false Elapsed: 0ms
+Info 117  [1:47:17.556] Before ensureProjectForOpenFiles:
+Info 118  [1:47:17.557] After ensureProjectForOpenFiles:
+Info 119  [1:47:25.392] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 120  [1:47:25.393] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 121  [1:47:25.689] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 122  [1:47:25.689] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 20 structureChanged: false Elapsed: 0ms
+Info 123  [1:47:27.894] Before ensureProjectForOpenFiles:
+Info 124  [1:47:27.894] After ensureProjectForOpenFiles:
+Info 125  [1:47:29.412] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 126  [1:47:29.430] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 127  [1:47:29.700] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 128  [1:47:29.700] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 21 structureChanged: false Elapsed: 0ms
+Info 129  [1:47:31.930] Before ensureProjectForOpenFiles:
+Info 130  [1:47:31.930] After ensureProjectForOpenFiles:
+Info 131  [1:47:32.761] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 132  [1:47:32.761] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 133  [1:47:33.34] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 134  [1:47:33.34] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 22 structureChanged: false Elapsed: 0ms
+Info 135  [1:47:35.261] Before ensureProjectForOpenFiles:
+Info 136  [1:47:35.261] After ensureProjectForOpenFiles:
+Info 137  [1:47:39.292] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 138  [1:47:39.292] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 139  [1:47:39.591] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 140  [1:47:39.591] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 23 structureChanged: false Elapsed: 0ms
+Info 141  [1:47:41.792] Before ensureProjectForOpenFiles:
+Info 142  [1:47:41.792] After ensureProjectForOpenFiles:
+Info 143  [1:47:51.690] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 144  [1:47:51.690] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 145  [1:47:51.988] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 146  [1:47:51.988] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 24 structureChanged: false Elapsed: 0ms
+Info 147  [1:47:54.191] Before ensureProjectForOpenFiles:
+Info 148  [1:47:54.191] After ensureProjectForOpenFiles:
+Info 149  [1:48:0.860] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 150  [1:48:0.861] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 151  [1:48:1.138] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 152  [1:48:1.138] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 25 structureChanged: false Elapsed: 0ms
+Info 153  [1:48:3.361] Before ensureProjectForOpenFiles:
+Info 154  [1:48:3.361] After ensureProjectForOpenFiles:
+Info 155  [1:48:11.308] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 156  [1:48:11.309] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 157  [1:48:11.599] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 158  [1:48:11.599] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 26 structureChanged: false Elapsed: 0ms
+Info 159  [1:48:12.489] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 160  [1:48:12.490] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 161  [1:48:12.778] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 162  [1:48:12.778] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 27 structureChanged: false Elapsed: 0ms
+Info 163  [1:48:13.830] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 164  [1:48:13.830] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 165  [1:48:14.129] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 166  [1:48:14.129] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 28 structureChanged: false Elapsed: 0ms
+Info 167  [1:48:16.332] Before ensureProjectForOpenFiles:
+Info 168  [1:48:16.332] After ensureProjectForOpenFiles:
+Info 169  [1:48:17.976] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 170  [1:48:17.976] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 171  [1:48:18.246] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 172  [1:48:18.246] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 29 structureChanged: false Elapsed: 0ms
+Info 173  [1:48:19.658] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 174  [1:48:19.659] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 175  [1:48:19.930] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 176  [1:48:19.930] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 30 structureChanged: false Elapsed: 0ms
+Info 177  [1:48:22.159] Before ensureProjectForOpenFiles:
+Info 178  [1:48:22.159] After ensureProjectForOpenFiles:
+Info 179  [1:48:23.712] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 180  [1:48:23.712] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 181  [1:48:24.14] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 182  [1:48:24.14] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 31 structureChanged: false Elapsed: 0ms
+Info 183  [1:48:26.213] Before ensureProjectForOpenFiles:
+Info 184  [1:48:26.213] After ensureProjectForOpenFiles:
+Info 185  [1:48:26.480] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 186  [1:48:26.480] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 187  [1:48:26.776] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 188  [1:48:26.777] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 32 structureChanged: false Elapsed: 1ms
+Info 189  [1:48:27.618] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 190  [1:48:27.618] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 191  [1:48:27.899] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 192  [1:48:27.899] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 33 structureChanged: false Elapsed: 0ms
+Info 193  [1:48:30.119] Before ensureProjectForOpenFiles:
+Info 194  [1:48:30.119] After ensureProjectForOpenFiles:
+Info 195  [1:48:42.28] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 196  [1:48:42.29] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 197  [1:48:42.320] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 198  [1:48:42.320] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 34 structureChanged: false Elapsed: 0ms
+Info 199  [1:48:44.529] Before ensureProjectForOpenFiles:
+Info 200  [1:48:44.529] After ensureProjectForOpenFiles:
+Info 201  [1:49:1.791] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 202  [1:49:1.792] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 203  [1:49:2.66] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 204  [1:49:2.66] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 35 structureChanged: false Elapsed: 0ms
+Info 205  [1:49:4.292] Before ensureProjectForOpenFiles:
+Info 206  [1:49:4.293] After ensureProjectForOpenFiles:
+Info 207  [1:49:8.124] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 208  [1:49:8.125] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 209  [1:49:8.421] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 210  [1:49:8.421] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 36 structureChanged: false Elapsed: 0ms
+Info 211  [1:49:10.625] Before ensureProjectForOpenFiles:
+Info 212  [1:49:10.626] After ensureProjectForOpenFiles:
+Info 213  [1:49:12.452] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 214  [1:49:12.453] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 215  [1:49:12.750] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 216  [1:49:12.750] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 37 structureChanged: false Elapsed: 0ms
+Info 217  [1:49:14.953] Before ensureProjectForOpenFiles:
+Info 218  [1:49:14.953] After ensureProjectForOpenFiles:
+Info 219  [1:49:57.996] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 220  [1:49:57.997] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 221  [1:49:58.282] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 222  [1:49:58.282] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 38 structureChanged: false Elapsed: 0ms
+Info 223  [1:50:0.497] Before ensureProjectForOpenFiles:
+Info 224  [1:50:0.497] After ensureProjectForOpenFiles:
+Info 225  [1:50:12.438] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 226  [1:50:12.438] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 227  [1:50:12.714] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 228  [1:50:12.714] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 39 structureChanged: false Elapsed: 0ms
+Info 229  [1:50:14.939] Before ensureProjectForOpenFiles:
+Info 230  [1:50:14.939] After ensureProjectForOpenFiles:
+Info 231  [1:50:59.30] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 232  [1:50:59.31] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 233  [1:50:59.306] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 234  [1:50:59.306] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 40 structureChanged: false Elapsed: 0ms
+Info 235  [1:51:1.532] Before ensureProjectForOpenFiles:
+Info 236  [1:51:1.532] After ensureProjectForOpenFiles:
+Info 237  [1:51:6.451] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 238  [1:51:6.451] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 239  [1:51:6.745] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 240  [1:51:6.745] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 41 structureChanged: false Elapsed: 0ms
+Info 241  [1:51:8.951] Before ensureProjectForOpenFiles:
+Info 242  [1:51:8.951] After ensureProjectForOpenFiles:
+Info 243  [1:51:12.458] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 244  [1:51:12.458] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 245  [1:51:12.761] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 246  [1:51:12.762] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 42 structureChanged: false Elapsed: 0ms
+Info 247  [1:51:14.959] Before ensureProjectForOpenFiles:
+Info 248  [1:51:14.959] After ensureProjectForOpenFiles:
+Info 249  [1:51:20.287] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 250  [1:51:20.287] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 251  [1:51:20.579] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 252  [1:51:20.579] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 43 structureChanged: false Elapsed: 0ms
+Info 253  [1:51:22.787] Before ensureProjectForOpenFiles:
+Info 254  [1:51:22.787] After ensureProjectForOpenFiles:
+Info 255  [1:52:35.503] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 256  [1:52:35.503] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 257  [1:52:35.798] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 258  [1:52:35.798] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 44 structureChanged: false Elapsed: 0ms
+Info 259  [1:52:38.4] Before ensureProjectForOpenFiles:
+Info 260  [1:52:38.4] After ensureProjectForOpenFiles:
+Info 261  [1:53:20.236] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 262  [1:53:20.236] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 263  [1:53:20.505] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 264  [1:53:20.505] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 45 structureChanged: false Elapsed: 0ms
+Info 265  [1:53:22.737] Before ensureProjectForOpenFiles:
+Info 266  [1:53:22.738] After ensureProjectForOpenFiles:
+Info 267  [1:53:23.710] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 268  [1:53:23.711] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 269  [1:53:24.36] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 270  [1:53:24.36] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 46 structureChanged: false Elapsed: 0ms
+Info 271  [1:53:24.918] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 272  [1:53:24.919] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 273  [1:53:25.212] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 274  [1:53:25.212] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 47 structureChanged: false Elapsed: 0ms
+Info 275  [1:53:27.419] Before ensureProjectForOpenFiles:
+Info 276  [1:53:27.419] After ensureProjectForOpenFiles:
+Info 277  [1:53:44.53] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 278  [1:53:44.54] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 279  [1:53:44.354] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 280  [1:53:44.354] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 48 structureChanged: false Elapsed: 0ms
+Info 281  [1:53:46.554] Before ensureProjectForOpenFiles:
+Info 282  [1:53:46.554] After ensureProjectForOpenFiles:
+Info 283  [1:55:17.679] DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 284  [1:55:17.679] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/angular-tour-of-heroes :: WatchInfo: /home/ldab/Bureau/angular-tour-of-heroes 1 undefined Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json WatchType: Wild card directory
+Info 285  [1:55:17.979] Starting updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json
+Info 286  [1:55:17.979] Finishing updateGraphWorker: Project: /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json Version: 49 structureChanged: false Elapsed: 0ms
+Info 287  [1:55:20.180] Before ensureProjectForOpenFiles:
+Info 288  [1:55:20.181] After ensureProjectForOpenFiles:
