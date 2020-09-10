@@ -3,7 +3,18 @@
       <a routerLink="/heroes/{{hero.id}}">
         <span class="badge">{{hero.id}}</span> {{hero.name}}
       </a>
+      <button class="delete" title="delete hero"
+        (click)="delete(hero)">x
+      </button>
     </li>
 </ul>
+<div>
+  <label> Nouveau héro:
+    <input #heroName />
+  </label>
 
+  <button (click)="add(heroName.value); heroName.value = ''">
+    Ajouter
+  </button>
+</div>
 <!-- <app-hero-detail [hero]="selectedHero"></app-hero-detail> ne fourni plus à hero-detail--> 

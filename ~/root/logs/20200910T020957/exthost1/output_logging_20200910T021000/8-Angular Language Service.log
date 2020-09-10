@@ -1,0 +1,28 @@
+[Info  - 02:10:00] Angular language server process ID: 86069
+[Info  - 02:10:00] Using typescript/lib/tsserverlibrary v3.9.5 from /root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 02:10:00] Using @angular/language-service v10.0.14 from /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 02:10:00] Log file: /home/ldab/Bureau/angular-tour-of-heroes/~/root/logs/20200910T020957/exthost1/Angular.ng-template/nglangsvc.log
+[Info  - 02:10:03] Enabling language service for /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json.
+[Error - 13:28:18] No config file for /home/ldab/Bureau/angular-tour-of-heroes/node_modules/angular-in-memory-web-api/http-client-in-memory-web-api.module.d.ts
+/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js:10559
+            throw new Error("length < 0");
+            ^
+
+Error: length < 0
+    at Object.createTextSpan (/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js:10559:19)
+    at TextChange.getTextChangeRange (/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js:150013:52)
+    at ScriptVersionCache.getTextChangesBetweenVersions (/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js:150087:66)
+    at LineIndexSnapshot.getChangeRange (/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js:150137:43)
+    at acquireOrUpdateDocument (/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js:115402:133)
+    at Object.updateDocumentWithKey (/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js:115368:20)
+    at Object.getOrCreateSourceFileByPath [as getSourceFileByPath] (/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js:139327:49)
+    at tryReuseStructureFromOldProgram (/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js:100516:28)
+    at Object.createProgram (/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js:100099:30)
+    at synchronizeHostData (/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js:139249:26)
+[Info  - 17:47:14] Connection to server got closed. Server will restart.
+[Info  - 17:47:14] Angular language server process ID: 104617
+[Info  - 17:47:14] Using typescript/lib/tsserverlibrary v3.9.5 from /root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 17:47:14] Using @angular/language-service v10.0.14 from /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 17:47:14] Log file: /home/ldab/Bureau/angular-tour-of-heroes/~/root/logs/20200910T020957/exthost1/Angular.ng-template/nglangsvc.log
+[Info  - 17:47:17] Enabling language service for /home/ldab/Bureau/angular-tour-of-heroes/tsconfig.json.
+[Error - 20:29:21] No config file for /home/ldab/Bureau/angular-tour-of-heroes/node_modules/rxjs/internal/Observable.d.ts
