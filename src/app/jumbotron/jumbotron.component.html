@@ -1,0 +1,7 @@
+<div *ngIf="authService.isConnected()" class=jumbotron>
+    <nav>
+        <a routerLink="/dashboard">Dashboard</a>
+        <a routerLink="/heroes">Liste des Héros</a>
+        <button (click)="deconnexion()">Deconnexion</button>
+      </nav>
+</div>

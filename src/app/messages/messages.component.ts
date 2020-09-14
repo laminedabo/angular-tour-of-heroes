@@ -1,5 +1,7 @@
 import { Component, OnInit } from '@angular/core';
+import { from } from 'rxjs';
 import { MessageService } from '../message.service';
+import { AuthService } from '../auth.service';
 
 @Component({
   selector: 'app-messages',
@@ -8,7 +10,7 @@ import { MessageService } from '../message.service';
 })
 export class MessagesComponent implements OnInit {
 
-  constructor(public messageService: MessageService) { }
+  constructor(public messageService: MessageService, public authService: AuthService) { }
 
   ngOnInit(): void {
   }

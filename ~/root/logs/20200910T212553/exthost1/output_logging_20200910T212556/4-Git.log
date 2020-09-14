@@ -1,0 +1,29 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ldab/Bureau/angular-tour-of-heroes
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse tourOfHeroInMemery
+> git rev-parse --symbolic-full-name tourOfHeroInMemery@{u}
+> git rev-list --left-right tourOfHeroInMemery...refs/remotes/origin/tourOfHeroInMemery
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/hero.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/angular-tour-of-heroes/src/app/hero.service.ts
+> git cat-file -s 98d93b4c325dd172b7240f7226613c81cfa38bed
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse tourOfHeroInMemery
+> git rev-parse --symbolic-full-name tourOfHeroInMemery@{u}
+> git rev-list --left-right tourOfHeroInMemery...refs/remotes/origin/tourOfHeroInMemery
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ldab/Bureau/angular-tour-of-heroes/src/app/hero.service.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/hero-search/hero-search.component.ts
+> git ls-files --stage -- /home/ldab/Bureau/angular-tour-of-heroes/src/app/hero-search/hero-search.component.ts
+> git cat-file -s eb18ce09ecb261ab07b42fc4ba65881d55905ebb

@@ -58,7 +58,7 @@ export class HeroService {
         map(heroes => heroes[0]), // returns a {0|1} element array
         tap(h => {
           const outcome = h ? `trouvé` : `intouvable`;
-          this.log(`hero id=${id} ${outcome}`);
+          this.log(`hero id: ${id} ${outcome}`);
         }),
         catchError(this.handleError<Hero>(`getHero id=${id}`))
       );

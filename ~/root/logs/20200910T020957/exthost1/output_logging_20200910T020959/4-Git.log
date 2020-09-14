@@ -6928,3 +6928,93 @@ fatal: no upstream configured for branch 'tourOfHeroInMemery'
 > git config --get commit.template
 > git check-ignore -v -z --stdin
 > git add -A -- .
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse tourOfHeroInMemery
+> git rev-parse --symbolic-full-name tourOfHeroInMemery@{u}
+fatal: no upstream configured for branch 'tourOfHeroInMemery'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-files --stage -- /home/ldab/Bureau/angular-tour-of-heroes/src/app/hero.service.ts
+> git cat-file -s 98d93b4c325dd172b7240f7226613c81cfa38bed
+> git show --textconv :src/app/hero.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse tourOfHeroInMemery
+> git rev-parse --symbolic-full-name tourOfHeroInMemery@{u}
+fatal: no upstream configured for branch 'tourOfHeroInMemery'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git push
+fatal: The current branch tourOfHeroInMemery has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin tourOfHeroInMemery
+> git push -u origin tourOfHeroInMemery
+Missing or invalid credentials.
+Error: socket hang up
+    at connResetException (internal/errors.js:559:14)
+    at Socket.socketOnEnd (_http_client.js:433:23)
+    at Socket.emit (events.js:208:15)
+    at endReadableNT (_stream_readable.js:1168:12)
+    at processTicksAndRejections (internal/process/task_queues.js:77:11) {
+  code: 'ECONNRESET'
+}
+Missing or invalid credentials.
+Error: socket hang up
+    at connResetException (internal/errors.js:559:14)
+    at Socket.socketOnEnd (_http_client.js:433:23)
+    at Socket.emit (events.js:208:15)
+    at endReadableNT (_stream_readable.js:1168:12)
+    at processTicksAndRejections (internal/process/task_queues.js:77:11) {
+  code: 'ECONNRESET'
+}
+remote: No anonymous write access.
+fatal: Authentication failed for 'https://github.com/laminedabo/angular-tour-of-heroes.git/'
+> git status -z -u
+> git ls-files --stage -- /home/ldab/Bureau/angular-tour-of-heroes/src/app/hero.service.ts
+> git symbolic-ref --short HEAD
+> git cat-file -s 98d93b4c325dd172b7240f7226613c81cfa38bed
+> git rev-parse tourOfHeroInMemery
+> git show --textconv :src/app/hero.service.ts
+> git rev-parse --symbolic-full-name tourOfHeroInMemery@{u}
+> git rev-list --left-right tourOfHeroInMemery...refs/remotes/origin/tourOfHeroInMemery
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ldab/Bureau/angular-tour-of-heroes/src/app/hero.service.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/in-memory-data.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/angular-tour-of-heroes/src/app/in-memory-data.service.ts
+> git cat-file -s 1530fb1e04aefa90202f9efdd9c103ca39fcc0d0
+> git show --textconv :src/app/hero-search/hero-search.component.html
+> git ls-files --stage -- /home/ldab/Bureau/angular-tour-of-heroes/src/app/hero-search/hero-search.component.html
+> git cat-file -s 567c18b5c81849e382ca8c196c3518071535a0dc
+> git show --textconv :src/app/hero-search/hero-search.component.ts
+> git ls-files --stage -- /home/ldab/Bureau/angular-tour-of-heroes/src/app/hero-search/hero-search.component.ts
+> git cat-file -s eb18ce09ecb261ab07b42fc4ba65881d55905ebb
+> git show --textconv :src/app/hero.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/angular-tour-of-heroes/src/app/hero.service.ts
+> git cat-file -s 98d93b4c325dd172b7240f7226613c81cfa38bed
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse tourOfHeroInMemery
+> git rev-parse --symbolic-full-name tourOfHeroInMemery@{u}
+> git rev-list --left-right tourOfHeroInMemery...refs/remotes/origin/tourOfHeroInMemery
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse tourOfHeroInMemery
+> git rev-parse --symbolic-full-name tourOfHeroInMemery@{u}
+> git rev-list --left-right tourOfHeroInMemery...refs/remotes/origin/tourOfHeroInMemery
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

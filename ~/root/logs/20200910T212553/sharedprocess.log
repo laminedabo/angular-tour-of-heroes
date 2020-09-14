@@ -1,0 +1,8 @@
+[2020-09-10 21:25:57.368] [sharedprocess] [info] main {"machineId":"70e47962f8db9099b5c32bff5d086a841625d7fc5fd73ad6847e53798bf19d88","windowId":2}
+[2020-09-10 21:26:02.015] [sharedprocess] [info] Installing extension: angular.ng-template
+[2020-09-10 21:26:37.378] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-09-10 21:27:24.832] [sharedprocess] [info] Downloaded extension: angular.ng-template /home/ldab/Bureau/angular-tour-of-heroes/~/root/CachedExtensionVSIXs/angular.ng-template-0.1001.0
+[2020-09-10 21:27:25.482] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.angular.ng-template-0.1001.0: angular.ng-template
+[2020-09-10 21:27:25.482] [sharedprocess] [info] Renamed to /root/.vscode/extensions/angular.ng-template-0.1001.0
+[2020-09-10 21:27:25.483] [sharedprocess] [info] Installation completed. angular.ng-template
+[2020-09-10 21:27:25.490] [sharedprocess] [info] Extensions installed successfully: angular.ng-template
